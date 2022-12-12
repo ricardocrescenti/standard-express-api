@@ -37,7 +37,7 @@
     "@types/knex": "^0.16.1",
     "apollo-server-express": "^2.12.0",
     "body-parser": "^1.19.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "graphql-schema-creator": "git+https://github.com/ricardocrescenti/graphql-schema-creator.git#master",
     "knex": "^0.20.13"
   },
