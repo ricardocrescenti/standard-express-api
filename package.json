@@ -39,7 +39,7 @@
     "body-parser": "^1.19.0",
     "express": "^4.17.1",
     "graphql-schema-creator": "git+https://github.com/ricardocrescenti/graphql-schema-creator.git#master",
-    "knex": "^0.20.13"
+    "knex": "^2.4.0"
   },
   "devDependencies": {
     "@types/jest": "^24.0.23",
